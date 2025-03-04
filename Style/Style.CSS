@@ -16,3 +16,13 @@ nav a{
 nav a:hover{
     text-decoration: underline;
 }
+.main {
+    background-color: #ffffff;
+    color: #000;
+}
+.welcome{
+    padding: 20px; /* Hcemos un espacio alrededor de 20px alrededor del contenido */
+    background-color: darkblue; /* Color de dondo del DIV */
+    text-align: center; /* Alineamos el texto al centro */
+    color: white; /*Colocamos color blanco al texto */
+}
